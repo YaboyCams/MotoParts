@@ -1,5 +1,10 @@
 # New MotoParts
 
+# Diseño
+## Estudiantes:
+### Jose Pablo Chavarro Conde
+### Camilo Allon Quesada
+
 API serverless local para publicar y consultar partes de motos usando Lambda, REST y DynamoDB local.
 
 ## Requisitos
